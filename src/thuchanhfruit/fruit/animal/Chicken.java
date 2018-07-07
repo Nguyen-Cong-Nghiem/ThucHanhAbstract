@@ -1,6 +1,6 @@
-package animal;
+package thuchanhfruit.fruit.animal;
 
-import edible.Edible;
+import thuchanhfruit.fruit.edible.Edible;
 
 public class Chicken extends Animal implements Edible {
     public String makeSound() {

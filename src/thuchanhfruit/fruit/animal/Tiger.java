@@ -1,4 +1,4 @@
-package animal;
+package thuchanhfruit.fruit.animal;
 
 public class Tiger extends Animal {
     public String makeSound() {

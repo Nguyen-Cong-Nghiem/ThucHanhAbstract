@@ -1,4 +1,4 @@
-package fruit;
+package thuchanhfruit.fruit;
 
  public class Orange extends Fruit {
      public String howToEat() {

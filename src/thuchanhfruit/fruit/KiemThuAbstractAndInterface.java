@@ -1,10 +1,12 @@
-import animal.Animal;
-import animal.Tiger;
-import animal.Chicken;
-import edible.Edible;
-import fruit.Fruit;
-import fruit.Orange;
-import fruit.Apple;
+package thuchanhfruit.fruit;
+
+import thuchanhfruit.fruit.animal.Animal;
+import thuchanhfruit.fruit.animal.Tiger;
+import thuchanhfruit.fruit.animal.Chicken;
+import thuchanhfruit.fruit.edible.Edible;
+import thuchanhfruit.fruit.Fruit;
+import thuchanhfruit.fruit.Orange;
+import thuchanhfruit.fruit.Apple;
 public class KiemThuAbstractAndInterface {
     public static void main(String[] args) {
         Animal[] animals = new Animal[2];
