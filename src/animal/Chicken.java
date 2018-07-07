@@ -4,11 +4,10 @@ import edible.Edible;
 
 public class Chicken extends Animal implements Edible {
     public String makeSound() {
-        return "Chicken: cluck-cluck!";
+        return "Ga keu: cluck-cluck";
     }
 
     public String howToEat() {
-        return " could be fried";
+        return "Loai ga la loai an thoc";
     }
-
 }

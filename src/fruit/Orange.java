@@ -1,8 +1,8 @@
 package fruit;
 
-public class Orange extends Fruit {
-    public String howToEat() {
-        return "Orange could be juiced";
-    }
+ public class Orange extends Fruit {
+     public String howToEat() {
+         return "Orange could be juiced";
+     }
+    
 }
-
